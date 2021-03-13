@@ -6,3 +6,4 @@ https://jupyterlab-35.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DL0
 https://jupyterlab-35.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DL0110EN_coursera/2.3_training_slope_and_bias_v3.ipynb
 https://jupyterlab-35.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DL0110EN_coursera/3.2_mini-batch_gradient_descent_v3.ipynb
 https://jupyterlab-35.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DL0110EN_coursera/3.6_training_and_validation_v3.ipynb
+https://jupyterlab-17.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DL0110EN_coursera/5.3_cross_entropy_logistic_regression_v2.ipynb
