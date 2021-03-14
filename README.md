@@ -8,3 +8,4 @@ https://jupyterlab-35.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DL0
 https://jupyterlab-35.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DL0110EN_coursera/3.6_training_and_validation_v3.ipynb
 https://jupyterlab-17.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DL0110EN_coursera/5.3_cross_entropy_logistic_regression_v2.ipynb
 https://jupyterlab-17.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DL0110EN_coursera/6.2lab_predicting%20_MNIST_using_Softmax_v2.ipynb
+https://jupyterlab-17.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/DL0110EN_coursera/9.3Multiple%20Channel%20Convolution.ipynb
